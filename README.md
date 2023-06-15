@@ -9,6 +9,16 @@ The project was divided in 3 deliveries and a final presentation.
 - **MongoDB** : from the design of the structure of the dataset and data upload and transformation to data queries (creation, upload, multiple filtering conditions, aggregations, unwind, joins, ...) with explanations and complexity / performance time check.
 - **PySpark** : from the design of the structure of the dataset and data upload to data queries (creation, update, join, nested query, group by, ...) with explanations.
 
+### Built With
 
+* [MySQL](https://www.mysql.com/)
+* [Neo4j](https://neo4j.com/)
+* [MongoDB](https://www.mongodb.com/)
+* [PySpark](https://spark.apache.org/docs/latest/api/python/index.html)
 
-
+#### Group Members:
+Leonardo Giusti
+Emmanuël Caputo
+Carlo Sgaravatti
+Fateme Hajizadekiakalaye
+Alireza Yahyanejad
