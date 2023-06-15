@@ -2,9 +2,7 @@
 ## Bibliography Database case study 
 
 The goal of the project is to perform data and architecture design of a given case study, Bibliography Database, starting from the specification of the problem to data queries in Neo4j,MongoDB and PySpark.
-The references of the project were :
-* [dblp] (https://dblp.org/)
-The project was divided in 3 deliveries and a final presentation.
+The references of the project were the [dblp](https://dblp.org/) database. The project was divided in 3 deliveries and a final presentation.
 
 - **MySQL** : from problem specification and assumptions to ER schema.
 - **Neo4j** : from data upload to data queries ( creation, update, aggregations, minimum path, conditions... ) with explanations and complexity / performance time check.
