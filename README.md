@@ -23,7 +23,7 @@ The references of the project were the [dblp](https://dblp.org/) database. The p
 <br />
 [Emmanuël Caputo](https://github.com/EmCap1999/)
 <br />
-[Carlo Sgaravatti]()
+[Carlo Sgaravatti](https://github.com/CarloSgaravatti/)
 <br />
 [Fateme Hajizadekiakalaye]()
 <br />
