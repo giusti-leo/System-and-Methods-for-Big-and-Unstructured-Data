@@ -1,7 +1,7 @@
 # System-and-Methods-for-Big-and-Unstructured-Data Project 2022-2023
 ## Bibliography Database case study 
 
-
+![image](https://github.com/giusti-leo/System-and-Methods-for-Big-and-Unstructured-Data/assets/61985313/33ad89d6-9497-4aae-9404-7c094894cabb)
 
 The goal of the project is to perform data and architecture design of a given case study, Bibliography Database, starting from the specification of the problem to data queries in Neo4j,MongoDB and PySpark.
 The references of the project were the [dblp](https://dblp.org/) database. The project was divided in 3 deliveries and a final presentation.
