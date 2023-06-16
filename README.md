@@ -1,6 +1,8 @@
 # System-and-Methods-for-Big-and-Unstructured-Data Project 2022-2023
 ## Bibliography Database case study 
 
+
+
 The goal of the project is to perform data and architecture design of a given case study, Bibliography Database, starting from the specification of the problem to data queries in Neo4j,MongoDB and PySpark.
 The references of the project were the [dblp](https://dblp.org/) database. The project was divided in 3 deliveries and a final presentation.
 
@@ -17,12 +19,12 @@ The references of the project were the [dblp](https://dblp.org/) database. The p
 * [PySpark](https://spark.apache.org/docs/latest/api/python/index.html)
 
 #### Group Members:
-Leonardo Giusti
+[Leonardo Giusti](https://github.com/giusti-leo/)
 <br />
-Emmanuël Caputo
+[Emmanuël Caputo](https://github.com/EmCap1999/)
 <br />
-Carlo Sgaravatti
+[Carlo Sgaravatti]()
 <br />
-Fateme Hajizadekiakalaye
+[Fateme Hajizadekiakalaye]()
 <br />
-Alireza Yahyanejad
+[Alireza Yahyanejad]()
